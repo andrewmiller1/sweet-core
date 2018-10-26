@@ -1,6 +1,6 @@
 This fork only fixes the 3.0.13 security problems and makes the repository distributable from github.
 
---
+---
 
 [![Build Status](https://travis-ci.org/sweet-js/sweet.js.svg)](https://travis-ci.org/sweet-js/sweet.js)
 
